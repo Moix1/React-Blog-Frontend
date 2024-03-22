@@ -2,6 +2,30 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Some Visuals of App
+
+Home Page
+![image](https://github.com/Moix1/React-Blog-Frontend/assets/14925326/09f6ffc6-c578-4b89-ba2f-28fe7ff34c3f)
+
+User Profile Page
+![image](https://github.com/Moix1/React-Blog-Frontend/assets/14925326/d837dc1b-f8d4-4e14-a680-dc363b08cf99)
+
+User Posted Posts Page
+![image](https://github.com/Moix1/React-Blog-Frontend/assets/14925326/8ff0ba50-c83e-495d-af2e-a9576feb0ef2)
+
+User Create Post Page
+![image](https://github.com/Moix1/React-Blog-Frontend/assets/14925326/c96196ed-dd44-480a-a01f-7cd368bb474e)
+
+All Authors Page
+![image](https://github.com/Moix1/React-Blog-Frontend/assets/14925326/01e1d3c0-1168-45fc-96d9-d64774858291)
+
+Posts By Specific Author
+![image](https://github.com/Moix1/React-Blog-Frontend/assets/14925326/07b15113-56f7-4c5a-a730-9ec9b972b45d)
+
+Posts By Specific Category
+![image](https://github.com/Moix1/React-Blog-Frontend/assets/14925326/aaac86fa-a6f8-4ac2-a950-e837c4a39173)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
